@@ -1,1 +1,1 @@
-# funny-javascript
+# easy -funny
